@@ -37,7 +37,7 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
+    <!--  -->
     <a href="https://icons8.com/icon/zfHRZ6i1Wg0U/figma"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
     
 </p>
@@ -57,7 +57,7 @@
     <a href="https://github.com/rahulnj/github-readme-stats"><img alt="Rahul Jayaraman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rahulnj&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Rahul Jayaraman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
 
 <br/>
