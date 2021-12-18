@@ -1,10 +1,9 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-<p align="center">
-  <img width="100%" height="100%" src="./job.gif">
-</p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rahul</h1>
-<h3 align="center">I'm a passionate Frontend Developer from India.</h3>
+
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rahul</h1>
+<img align="right" width="50%" height="40%" margin-top="1px" src="./job.gif">
+<h3 align="left">I'm a passionate Frontend Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -21,8 +20,9 @@
 
 - ⚡ Fact **I stand on a sweet spot where Design & Code Intersects.**
 
-## 🚀 Languages and Tools:
 
+
+## 🚀 Languages and Tools:
 <p align="left"> 
     <!--  -->
     <!--  -->
