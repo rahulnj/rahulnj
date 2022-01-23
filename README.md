@@ -46,7 +46,7 @@
 
 #### 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 𝑽𝒊𝒔𝒊𝒕𝒔 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulnj&label=Profile%20views&color=0e75b6&style=flat" alt="rahulnj" /> </p>
 
 <details>
 <summary>
